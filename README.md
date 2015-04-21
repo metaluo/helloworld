@@ -1,2 +1,3 @@
 # helloworld
-test
+
+Hello there, I am using Git now!
